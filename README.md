@@ -2,7 +2,7 @@
 <p align="center">
   <b>Curated roadmap, resources, and projects to learn Cybersecurity from Beginner → Pro</b>  
   <br/>
-  <i>by <a href="https://github.com/im-vishu">Vishant Kumar</a> — Building secure web apps & exploring ethical hacking</i>
+  <i>by <a href="https://github.com/im-vishu">Vishant Chaudhary</a> — Building secure web apps & exploring ethical hacking</i>
 </p>
 
 <p align="center">
