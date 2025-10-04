@@ -14,7 +14,9 @@
   </p>
 </div>
 
----<h1 align="center">🛡️ Awesome CyberLearn Path</h1>
+---
+
+<h1 align="center">🛡️ Awesome CyberLearn Path</h1>
 <p align="center">
   <b>Curated roadmap, resources, and projects to learn Cybersecurity from Beginner → Pro</b>  
   <br/>
