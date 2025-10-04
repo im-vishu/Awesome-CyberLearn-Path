@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img width="500" src="media/logo(2).svg" alt="Cyber Security Toolbox">
+    <img width="500" src="media/logo.svg" alt="Cyber Security Toolbox">
   </div>
   </br>
   <h6>The Complete Cyber Security Resource Hub</h6>
