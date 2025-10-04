@@ -1,4 +1,20 @@
-<h1 align="center">🛡️ Awesome CyberLearn Path</h1>
+<div align="center">
+  <div>
+    <img width="500" src="media/logo.svg" alt="Cyber Security Toolbox">
+  </div>
+  </br>
+  <h6>The Complete Cyber Security Resource Hub</h6>
+  <p>
+    <span style="font-weight: bold">Created & Maintained by Vishant Chaudhary</span>
+    </br>
+    <sub>Connect with me on 
+      <a href="https://www.linkedin.com/in/vishant--chaudhary">LinkedIn</a>, 
+      <a href="https://x.com/iam_vishant/">Twitter</a>.
+    </sub>
+  </p>
+</div>
+
+---<h1 align="center">🛡️ Awesome CyberLearn Path</h1>
 <p align="center">
   <b>Curated roadmap, resources, and projects to learn Cybersecurity from Beginner → Pro</b>  
   <br/>
