@@ -128,7 +128,7 @@ If this repo helps you, ⭐ **Star** it to support open learning!
 
 ## 🌍 Connect with Me
 
-**Vishant Kumar**  
+**Vishant Chaudhary**  
 📎 [GitHub](https://github.com/im-vishu)  
 💼 [LinkedIn](https://www.linkedin.com/in/vishant--chaudhary)  
 🐦 [X (Twitter)](https://x.com/iam_vishant)
