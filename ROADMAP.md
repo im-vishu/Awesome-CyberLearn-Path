@@ -160,4 +160,5 @@ Cybersecurity isn’t a destination — it’s a mindset.
 ---
 
 **Maintained by [Vishant Chaudhary](https://github.com/im-vishu)**
+
 💼 [LinkedIn](https://www.linkedin.com/in/vishant--chaudhary)
