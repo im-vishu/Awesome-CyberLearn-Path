@@ -111,7 +111,7 @@ Full details: [ROADMAP.md](./ROADMAP.md)
 | ⚔️ Intermediate | [eJPT](https://ine.com) · [PNPT](https://certifications.tcm-sec.com) | Offensive Security, Pentesting |
 | 🧠 Advanced | [OSCP](https://www.offsec.com/courses/pen-200) · [CISSP](https://www.isc2.org/Certifications/CISSP) | Deep specialization, Leadership |
 
-Full certification roadmap → [CERTIFICATIONS/](./CERTIFICATIONS/)
+Full certification roadmap → [CERTIFICATIONS](./CERTIFICATIONS.md/)
 
 ---
 
