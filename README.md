@@ -69,7 +69,7 @@ If this helps you, consider giving it a ⭐ — that’s how we grow open knowle
 | 🧩 Intermediate | SIEM · Forensics · Web & Network Pentesting | [HackTheBox](https://www.hackthebox.com) · [PortSwigger Academy](https://portswigger.net/web-security) |
 | 🚀 Advanced | Cloud Security · Threat Intel · Red Team Ops | [OffSec](https://www.offsec.com) · [MITRE ATT&CK](https://attack.mitre.org) |
 
-Full details: [ROADMAP.md](./ROADMAP.md)
+Full details: [ROADMAP](./Resources/ROADMAP.md)
 
 ---
 
@@ -105,7 +105,7 @@ Full details: [ROADMAP.md](./ROADMAP.md)
 | ⚔️ Intermediate | [eJPT](https://ine.com) · [PNPT](https://certifications.tcm-sec.com) | Offensive Security, Pentesting |
 | 🧠 Advanced | [OSCP](https://www.offsec.com/courses/pen-200) · [CISSP](https://www.isc2.org/Certifications/CISSP) | Deep specialization, Leadership |
 
-Full certification roadmap → [CERTIFICATIONS](./CERTIFICATIONS.md/)
+Full certification roadmap → [CERTIFICATIONS](./Resources/CERTIFICATIONS.md/)
 
 ---
 
