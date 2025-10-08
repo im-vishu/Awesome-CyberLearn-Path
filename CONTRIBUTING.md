@@ -104,6 +104,7 @@ Thanks again for helping make **Awesome-CyberLearn-Path** the go-to learning hub
 ### Maintainer
 
 **Vishant Chaudhary**
+
 📎 [GitHub](https://github.com/im-vishu)
 
 💼 [LinkedIn](https://www.linkedin.com/in/vishant--chaudhary)
