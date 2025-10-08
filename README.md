@@ -25,12 +25,6 @@
   <i>Building secure web apps & exploring ethical hacking</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/im-vishu/Awesome-CyberLearn-Path/stargazers"><img src="https://img.shields.io/github/stars/im-vishu/Awesome-CyberLearn-Path?style=for-the-badge&color=yellow" alt="Stars"/></a>
-  <a href="https://github.com/im-vishu/Awesome-CyberLearn-Path/fork"><img src="https://img.shields.io/github/forks/im-vishu/Awesome-CyberLearn-Path?style=for-the-badge&color=blue" alt="Forks"/></a>
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License"/></a>
-  <a href="https://www.linkedin.com/in/vishant--chaudhary"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-</p>
 
 ---
 
