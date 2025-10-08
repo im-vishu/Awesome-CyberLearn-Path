@@ -16,117 +16,156 @@
 
 ---
 
-<h1 align="center">🛡️ Awesome CyberLearn Path</h1>
+<h1 align="center">🛡️ Awesome-CyberLearn-Path</h1>
+
 <p align="center">
-  <b>Curated roadmap, resources, and projects to learn Cybersecurity from Beginner → Pro</b>  
+  <b>The ultimate open-source roadmap to learn Cybersecurity — from zero to professional.</b><br/>
+  Built and maintained by <a href="https://github.com/im-vishu">Vishant Chaudhary</a> 👨‍💻  
   <br/>
-  <i>by <a href="https://github.com/im-vishu">Vishant Chaudhary</a> — Building secure web apps & exploring ethical hacking</i>
+  <i>Building secure web apps & exploring ethical hacking</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/im-vishu/Awesome-CyberLearn-Path/stargazers">
-    <img src="https://img.shields.io/github/stars/im-vishu/Awesome-CyberLearn-Path?color=yellow&style=for-the-badge" alt="Stars"/>
-  </a>
-  <a href="https://github.com/im-vishu/Awesome-CyberLearn-Path/network/members">
-    <img src="https://img.shields.io/github/forks/im-vishu/Awesome-CyberLearn-Path?color=lightblue&style=for-the-badge" alt="Forks"/>
-  </a>
-  <a href="https://github.com/im-vishu/Awesome-CyberLearn-Path/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vishant--chaudhary">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+  <a href="https://github.com/im-vishu/Awesome-CyberLearn-Path/stargazers"><img src="https://img.shields.io/github/stars/im-vishu/Awesome-CyberLearn-Path?style=for-the-badge&color=yellow" alt="Stars"/></a>
+  <a href="https://github.com/im-vishu/Awesome-CyberLearn-Path/fork"><img src="https://img.shields.io/github/forks/im-vishu/Awesome-CyberLearn-Path?style=for-the-badge&color=blue" alt="Forks"/></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License"/></a>
+  <a href="https://www.linkedin.com/in/vishant--chaudhary"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-## 🧭 What is this Repo?
-
-**Awesome-CyberLearn-Path** is your one-stop open-source roadmap for mastering cybersecurity —  
-from absolute beginner to industry-ready analyst, engineer, or ethical hacker.  
-
-It curates:
-- Role-based roadmaps (SOC Analyst, Red Team, Cloud Security, etc.)
-- Verified learning resources and certification guides  
-- Real-world hands-on projects and CTFs  
-- A complete **[90-Day Cybersecurity Learning Plan](./90DAYS.md)**  
-- Safe and ethical research practices  
-
----
-
-## 🗺️ Learning Roadmap Overview
-
-| Level | Focus Areas | Sample Resources |
-|-------|--------------|------------------|
-| 🥇 Beginner | Networking, Linux, Security Fundamentals | [TryHackMe](https://tryhackme.com) · [SANS Cyber Aces](https://www.sans.org/cyberaces) |
-| 🧩 Intermediate | Web Security, SIEM, Forensics, Pentesting | [PortSwigger Academy](https://portswigger.net/web-security) · [HackTheBox](https://www.hackthebox.com) |
-| 🚀 Advanced | Cloud, Threat Intel, Red Team, DFIR | [MITRE ATT&CK](https://attack.mitre.org) · [OffSec](https://www.offsec.com) |
-
-👉 Full details in [ROADMAP.md](./ROADMAP.md)
+## 📘 Table of Contents
+1. [What This Repo Is](#-what-this-repo-is)
+2. [Why I Built This](#-why-i-built-this)
+3. [Learning Roadmap](#-learning-roadmap)
+4. [Resources & Tools](#-resources--tools)
+5. [Certifications](#-certifications)
+6. [Projects & Portfolio](#-projects--portfolio)
+7. [90-Day Learning Challenge](#-90-day-learning-challenge)
+8. [Ethics & Safety](#-ethics--safety)
+9. [Contributing](#-contributing)
+10. [Connect With Me](#-connect-with-me)
 
 ---
 
-## 🧰 Resources You’ll Find Here
+## 🚀 What This Repo Is
 
-📚 **Learning Platforms:**  
-[TryHackMe](https://tryhackme.com) · [Hack The Box](https://www.hackthebox.com) · [PortSwigger Academy](https://portswigger.net/web-security)
+**Awesome-CyberLearn-Path** is a curated, practical guide to mastering cybersecurity —  
+combining structured learning paths, verified resources, and real-world project ideas.
 
-🧪 **Labs & CTFs:**  
-[OverTheWire](https://overthewire.org) · [VulnHub](https://www.vulnhub.com) · [CTFtime](https://ctftime.org)
-
-⚙️ **Tools:**  
-[Nmap](https://nmap.org) · [Wireshark](https://www.wireshark.org) · [Burp Suite](https://portswigger.net/burp) · [Volatility](https://www.volatilityfoundation.org)
-
-🎓 **Certifications:**  
-[CompTIA Security+](https://www.comptia.org/certifications/security) · [eJPT](https://ine.com) · [OSCP](https://www.offsec.com/courses/pen-200/)
-
-🔬 **Official Frameworks:**  
-[NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) · [MITRE ATT&CK](https://attack.mitre.org)
+Whether you want to become a **SOC Analyst, Penetration Tester, Threat Hunter, or Security Engineer**,  
+this repo gives you the tools and roadmap to get there.
 
 ---
 
-## 💻 Projects & Portfolio Ideas
+## 💡 Why I Built This
 
-Build projects that prove your skills:
-1. 🕵️‍♂️ Micro Pentest on a vulnerable VM  
-2. 📊 SIEM Dashboard + Playbook  
-3. ☁️ Cloud Security Posture Scan  
-4. 🧠 DFIR Case Study  
-5. 🔍 Threat Intelligence Report  
-6. 🧰 Automation Tool (Python-based)  
-7. 💻 Container Hardening Demo  
+When I started learning cybersecurity, I realized most resources were scattered — some too basic, others too advanced.  
+So I created this project to **help learners move step-by-step from zero to employable**, using real platforms, labs, and community tools.
 
-Explore all in [PROJECTS/](./PROJECTS/)
+If this helps you, consider giving it a ⭐ — that’s how we grow open knowledge together.
 
 ---
 
-## 🧩 90-Day Cybersecurity Challenge
+## 🧭 Learning Roadmap
 
-Ready to go from 0 → job-ready in 3 months?  
-Follow the step-by-step **[90-Day Cybersecurity Plan](./90DAYS.md)** that breaks down daily learning goals, topics, and labs to build real skills and confidence.  
+| Level | Focus | Example Platforms |
+|-------|--------|-------------------|
+| 🥇 Beginner | Networking · Linux · Security Fundamentals | [TryHackMe](https://tryhackme.com) · [SANS Cyber Aces](https://www.sans.org/cyberaces) |
+| 🧩 Intermediate | SIEM · Forensics · Web & Network Pentesting | [HackTheBox](https://www.hackthebox.com) · [PortSwigger Academy](https://portswigger.net/web-security) |
+| 🚀 Advanced | Cloud Security · Threat Intel · Red Team Ops | [OffSec](https://www.offsec.com) · [MITRE ATT&CK](https://attack.mitre.org) |
 
----
-
-## ⚠️ Ethical Use Reminder
-This project is for **educational and research purposes only**.  
-Never test or exploit systems you don’t own.  
-Read [DARK_WEB.md](./DARK_WEB.md) to understand safe research practices.
+Full details: [ROADMAP.md](./ROADMAP.md)
 
 ---
 
-## 🤝 Contribute & Grow Together
-We welcome contributors!  
-- Add new verified resources  
-- Suggest project ideas  
-- Improve role-based roadmaps  
+## 🧰 Resources & Tools
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
+### 🔍 Learning Platforms
+- [TryHackMe](https://tryhackme.com) — gamified cybersecurity labs  
+- [HackTheBox](https://www.hackthebox.com) — real-world penetration testing challenges  
+- [PortSwigger Academy](https://portswigger.net/web-security) — learn web app security  
+- [OverTheWire](https://overthewire.org) — beginner-friendly Linux and hacking games  
 
-If this repo helps you, ⭐ **Star** it to support open learning!
+### 🧪 Practice Labs & CTFs
+- [CTFtime](https://ctftime.org) — calendar of global Capture-the-Flag events  
+- [VulnHub](https://www.vulnhub.com) — downloadable vulnerable machines  
+- [PicoCTF](https://picoctf.org) — beginner CTF by Carnegie Mellon University  
+
+### ⚙️ Must-Know Tools
+| Category | Tools | Official Docs |
+|-----------|--------|---------------|
+| Network Scanning | [Nmap](https://nmap.org) | [Docs](https://nmap.org/book/man.html) |
+| Traffic Analysis | [Wireshark](https://www.wireshark.org) | [Docs](https://www.wireshark.org/docs/) |
+| Web Testing | [Burp Suite](https://portswigger.net/burp) | [Docs](https://portswigger.net/burp/documentation) |
+| Forensics | [Volatility](https://www.volatilityfoundation.org) | [Docs](https://volatility3.readthedocs.io/) |
+| SIEM | [Splunk](https://www.splunk.com) · [ELK Stack](https://www.elastic.co/elk-stack) | [Docs](https://docs.splunk.com) |
 
 ---
 
-## 🌍 Connect with Me
+## 🎓 Certifications
+
+| Level | Certifications | Focus |
+|--------|----------------|-------|
+| 🧱 Beginner | [CompTIA Security+](https://www.comptia.org/certifications/security) · [Cisco CyberOps](https://www.cisco.com) | Core concepts, Blue Team |
+| ⚔️ Intermediate | [eJPT](https://ine.com) · [PNPT](https://certifications.tcm-sec.com) | Offensive Security, Pentesting |
+| 🧠 Advanced | [OSCP](https://www.offsec.com/courses/pen-200) · [CISSP](https://www.isc2.org/Certifications/CISSP) | Deep specialization, Leadership |
+
+Full certification roadmap → [CERTIFICATIONS/](./CERTIFICATIONS/)
+
+---
+
+## 💻 Projects & Portfolio
+
+Show your skills by building:
+1. 🕵️ SOC Playbook in Splunk or ELK  
+2. 🔍 Web Pentest on DVWA or Juice Shop  
+3. ☁️ Cloud Security Audit (AWS IAM or Azure)  
+4. 🧠 Malware Traffic Analysis (Wireshark)  
+5. 🧩 Incident Response Simulation  
+6. 🧰 Python Automation Script for Recon  
+
+Check examples → [PROJECTS/](./PROJECTS/)
+
+---
+
+## 🧩 90-Day Learning Challenge
+
+Take the **[90-Day Cybersecurity Study Plan](./90DAYS.md)** —  
+a structured day-by-day guide to move from fundamentals to real-world practice.
+
+🎯 Covers:
+- Networking & Linux Basics  
+- Security Foundations  
+- Pentesting Labs  
+- SIEM & Threat Analysis  
+- Mini Projects & Reports  
+
+---
+
+## ⚠️ Ethics & Safety
+
+Cybersecurity learning must stay legal and ethical.  
+Never test, scan, or exploit systems you don’t own.  
+
+For privacy & dark-web research awareness, read [DARK_WEB.md](./DARK_WEB.md).  
+All content here is educational and supports safe, responsible learning.
+
+---
+
+## 🤝 Contributing
+
+Want to add a course, tool, or project idea?  
+1. Fork this repo  
+2. Add your resource under the right section  
+3. Submit a pull request  
+
+Read the [CONTRIBUTING.md](./CONTRIBUTING.md) before contributing.  
+Good first issues are tagged in the [Issues](../../issues) section.
+
+---
+
+## 🌍 Connect With Me
 
 **Vishant Chaudhary**  
 📎 [GitHub](https://github.com/im-vishu)  
@@ -135,4 +174,4 @@ If this repo helps you, ⭐ **Star** it to support open learning!
 
 ---
 
-<p align="center">⭐ Built for learners who want to defend, break, and secure the digital world.</p>
+<p align="center">⭐ If this repo helped you, give it a Star — let’s grow the cybersecurity learning community together!</p>
